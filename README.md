@@ -1,11 +1,11 @@
 # simple-discord-bot.js
 A Simple discord bot written in discord.js
 
-#Enter Your Bot Token In Config.json
+# Enter Your Bot Token In Config.json
 
-#running
+# running
 node project.js
 
-#Credit
+# Credit
 Snowflake107
 
