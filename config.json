@@ -1,0 +1,6 @@
+{
+"token": "YOUR_BOT_TOKEN",
+"prefix": "/",
+  "embedColour": "RAINBOW",
+  "owners": ["YOUR_ID_DISCORD"]
+}
